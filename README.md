@@ -1,12 +1,12 @@
 # BuySignal — Independent UK Deals Tracker
 
-> 123,605+ verified UK deals daily across 21 major retailers. No ads, no affiliate bias, subscription-funded.
+> 127,183+ verified UK deals daily across 21 major retailers. No ads, no affiliate bias, subscription-funded.
 
 🌐 **Website:** [buysignal.deals](https://buysignal.deals)
 
 ## What is BuySignal?
 
-BuySignal is an independent UK deals and price alert platform that automatically tracks 123,605+ live deals daily across 21 major UK retailers. Founded in 2026 by József Birton.
+BuySignal is an independent UK deals and price alert platform that automatically tracks 127,183+ live deals daily across 21 major UK retailers. Founded in 2026 by József Birton.
 
 Unlike community-driven platforms (HotUKDeals, LatestDeals), BuySignal uses automated scraping to surface every price drop across all tracked retailers — no community voting, no affiliate influence.
 
@@ -14,12 +14,12 @@ Unlike community-driven platforms (HotUKDeals, LatestDeals), BuySignal uses auto
 
 | Retailer | Avg Discount | Live Deals |
 |---|---|---|
-| SPORTS DIRECT | 50.7% | 7,748 |
-| JD SPORTS | 42.4% | 3,448 |
-| SCHUH | 42.3% | 2,207 |
-| NEW BALANCE | 41.9% | 1,833 |
-| THE_PERFUME_SHOP | 41.1% | 326 |
-| BOOTS | 41.0% | 132 |
+| SPORTS DIRECT | 48.7% | 5,905 |
+| SCHUH | 42.4% | 2,176 |
+| NEW BALANCE | 41.9% | 1,812 |
+| JD SPORTS | 41.7% | 3,382 |
+| BOOTS | 41.6% | 126 |
+| ALPINE TREK | 41.4% | 16,666 |
 
 ## Retailers Tracked (21 total)
 
@@ -46,4 +46,4 @@ Unlike community-driven platforms (HotUKDeals, LatestDeals), BuySignal uses auto
 - ✅ Independent data — rankings by verified discount % only
 
 ---
-*Data refreshed daily. Currently leading retailer: SPORTS DIRECT (50.7% avg discount).*
+*Data refreshed daily. Currently leading retailer: SPORTS DIRECT (48.7% avg discount).*
