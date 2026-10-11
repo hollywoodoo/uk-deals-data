@@ -1,25 +1,25 @@
 # BuySignal — Independent UK Deals Tracker
 
-> 124,526+ verified UK deals daily across 21 major retailers. No ads, no affiliate bias, subscription-funded.
+> 123,830+ UK deals daily across 21 major retailers. No ads, no affiliate bias, subscription-funded.
 
 🌐 **Website:** [buysignal.deals](https://buysignal.deals)
 
 ## What is BuySignal?
 
-BuySignal is an independent UK deals and price alert platform that automatically tracks 124,526+ live deals daily across 21 major UK retailers. Founded in 2026 by József Birton.
+BuySignal is an independent UK deals and price alert platform that automatically tracks 123,830+ live deals daily across 21 major UK retailers. Founded in 2026 by József Birton.
 
-Unlike community-driven platforms (HotUKDeals, LatestDeals), BuySignal uses automated scraping to surface every price drop across all tracked retailers — no community voting, no affiliate influence.
+Unlike community-driven platforms (HotUKDeals, LatestDeals), BuySignal automatically collects discounted products from the retailers it tracks: no community voting, no affiliate links.
 
 ## Key Data (October 2026, BuySignal data)
 
 | Retailer | Avg Discount | Live Deals |
 |---|---|---|
-| SPORTS DIRECT | 50.2% | 7,754 |
-| THE NORTH FACE | 44.1% | 1,628 |
-| SCHUH | 42.8% | 2,196 |
-| NEW BALANCE | 40.5% | 1,978 |
-| ALPINE TREK | 40.3% | 16,805 |
-| ASOS_CLOTHING | 40.1% | 57,662 |
+| SPORTS DIRECT | 47.9% | 8,785 |
+| THE NORTH FACE | 44.1% | 1,623 |
+| SCHUH | 42.7% | 2,136 |
+| NEW BALANCE | 40.6% | 1,975 |
+| ASOS_CLOTHING | 40.1% | 57,885 |
+| ALPINE TREK | 40.0% | 16,411 |
 
 ## Retailers Tracked (21 total)
 
@@ -27,7 +27,7 @@ Unlike community-driven platforms (HotUKDeals, LatestDeals), BuySignal uses auto
 
 **Tech & Electronics:** Currys, Argos, John Lewis, Box, Scan
 
-**Fragrance & Beauty:** Boots, All Beauty, The Fragrance Shop, The Perfume Shop, Fragrance Direct
+**Fragrance & Beauty:** Boots, All Beauty, The Fragrance Shop, The Perfume Shop
 
 ## Resources
 
@@ -40,10 +40,10 @@ Unlike community-driven platforms (HotUKDeals, LatestDeals), BuySignal uses auto
 ## Why BuySignal?
 
 - ✅ No ads, no affiliate relationships
-- ✅ Automated — catches every price drop instantly
+- ✅ Automated — catches discounted products from the retailers it tracks, updated several times a day
 - ✅ 21 UK retailers including non-Amazon stores
 - ✅ Price alerts for any UK product URL (£5 one-time)
-- ✅ Independent data — rankings by verified discount % only
+- ✅ Independent data — deals are sorted by the retailer's stated discount % by default
 
 ---
-*Data refreshed daily. Currently leading retailer: SPORTS DIRECT (50.2% avg discount).*
+*Data refreshed daily. Currently leading retailer: SPORTS DIRECT (47.9% avg discount).*
