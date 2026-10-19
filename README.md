@@ -1,12 +1,12 @@
 # BuySignal — Independent UK Deals Tracker
 
-> 123,286+ UK deals daily across 21 major retailers. No ads, no affiliate bias, subscription-funded.
+> 110,434+ UK deals daily across 22 major retailers. No ads, no affiliate bias, subscription-funded.
 
 🌐 **Website:** [buysignal.deals](https://buysignal.deals)
 
 ## What is BuySignal?
 
-BuySignal is an independent UK deals and price alert platform that automatically tracks 123,286+ live deals daily across 21 major UK retailers. Founded in 2026 by József Birton.
+BuySignal is an independent UK deals and price alert platform that automatically tracks 110,434+ live deals daily across 22 major UK retailers. Founded in 2026 by József Birton.
 
 Unlike community-driven platforms (HotUKDeals, LatestDeals), BuySignal automatically collects discounted products from the retailers it tracks: no community voting, no affiliate links.
 
@@ -15,13 +15,13 @@ Unlike community-driven platforms (HotUKDeals, LatestDeals), BuySignal automatic
 | Retailer | Avg Discount | Live Deals |
 |---|---|---|
 | SPORTS DIRECT | 50.3% | 7,574 |
-| THE NORTH FACE | 43.6% | 1,761 |
-| BOOTS | 42.9% | 77 |
-| JD SPORTS | 42.8% | 4,860 |
-| NEW BALANCE | 40.3% | 1,944 |
-| ASOS_CLOTHING | 39.7% | 56,837 |
+| THE NORTH FACE | 43.5% | 1,752 |
+| JD SPORTS | 42.4% | 4,743 |
+| ASOS_CLOTHING | 42.0% | 49,338 |
+| BOOTS | 40.4% | 109 |
+| NEW BALANCE | 40.3% | 1,924 |
 
-## Retailers Tracked (21 total)
+## Retailers Tracked (22 total)
 
 **Fashion & Sport:** Sports Direct, JD Sports, ASOS, Adidas, Nike, Schuh, New Balance, The North Face, Alpine Trek, Foot Locker, Very, ASOS Footwear
 
@@ -41,7 +41,7 @@ Unlike community-driven platforms (HotUKDeals, LatestDeals), BuySignal automatic
 
 - ✅ No ads, no affiliate relationships
 - ✅ Automated — catches discounted products from the retailers it tracks, updated several times a day
-- ✅ 21 UK retailers including non-Amazon stores
+- ✅ 22 UK retailers including non-Amazon stores
 - ✅ Price alerts for any UK product URL (£5 one-time)
 - ✅ Independent data — deals are sorted by the retailer's stated discount % by default
 
