@@ -1,12 +1,12 @@
 # BuySignal — Independent UK Deals Tracker
 
-> 132,568+ UK deals daily across 22 major retailers. No ads, no affiliate bias, subscription-funded.
+> 133,183+ UK deals daily across 22 major retailers. No ads, no affiliate bias, subscription-funded.
 
 🌐 **Website:** [buysignal.deals](https://buysignal.deals)
 
 ## What is BuySignal?
 
-BuySignal is an independent UK deals and price alert platform that automatically tracks 132,568+ live deals daily across 22 major UK retailers. Founded in 2026 by József Birton.
+BuySignal is an independent UK deals and price alert platform that automatically tracks 133,183+ live deals daily across 22 major UK retailers. Founded in 2026 by József Birton.
 
 Unlike community-driven platforms (HotUKDeals, LatestDeals), BuySignal automatically collects discounted products from the retailers it tracks: no community voting, no affiliate links.
 
@@ -14,12 +14,12 @@ Unlike community-driven platforms (HotUKDeals, LatestDeals), BuySignal automatic
 
 | Retailer | Avg Discount | Live Deals |
 |---|---|---|
-| SPORTS DIRECT | 50.5% | 7,310 |
-| JD SPORTS | 43.3% | 5,019 |
-| THE NORTH FACE | 43.3% | 1,722 |
-| BOOTS | 39.5% | 118 |
-| THE_PERFUME_SHOP | 39.2% | 270 |
-| ASOS_CLOTHING | 38.7% | 57,748 |
+| SPORTS DIRECT | 50.6% | 7,367 |
+| THE NORTH FACE | 44.2% | 1,696 |
+| JD SPORTS | 44.0% | 5,060 |
+| THE_PERFUME_SHOP | 41.7% | 291 |
+| BOOTS | 40.0% | 114 |
+| ASOS_CLOTHING | 38.8% | 58,029 |
 
 ## Retailers Tracked (22 total)
 
@@ -46,4 +46,4 @@ Unlike community-driven platforms (HotUKDeals, LatestDeals), BuySignal automatic
 - ✅ Independent data — deals are sorted by the retailer's stated discount % by default
 
 ---
-*Data refreshed daily. Currently leading retailer: SPORTS DIRECT (50.5% avg discount).*
+*Data refreshed daily. Currently leading retailer: SPORTS DIRECT (50.6% avg discount).*
