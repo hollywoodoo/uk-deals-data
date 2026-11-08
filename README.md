@@ -1,12 +1,12 @@
 # BuySignal — Independent UK Deals Tracker
 
-> 167,472+ UK deals daily across 27 major retailers. No ads, no affiliate bias, subscription-funded.
+> 169,637+ UK deals daily across 28 major retailers. No ads, no affiliate bias, subscription-funded.
 
 🌐 **Website:** [buysignal.deals](https://buysignal.deals)
 
 ## What is BuySignal?
 
-BuySignal is an independent UK deals and price alert platform that automatically tracks 167,472+ live deals daily across 27 major UK retailers. Founded in 2026 by József Birton.
+BuySignal is an independent UK deals and price alert platform that automatically tracks 169,637+ live deals daily across 28 major UK retailers. Founded in 2026 by József Birton.
 
 Unlike community-driven platforms (HotUKDeals, LatestDeals), BuySignal automatically collects discounted products from the retailers it tracks: no community voting, no affiliate links.
 
@@ -14,14 +14,14 @@ Unlike community-driven platforms (HotUKDeals, LatestDeals), BuySignal automatic
 
 | Retailer | Avg Discount | Live Deals |
 |---|---|---|
-| GAP | 52.1% | 1,005 |
-| SPORTS DIRECT | 50.4% | 7,150 |
-| H&M | 47.6% | 3,008 |
-| UNIQLO | 45.6% | 288 |
-| THE NORTH FACE | 44.3% | 1,718 |
-| THE_PERFUME_SHOP | 43.7% | 326 |
+| GAP | 52.1% | 1,001 |
+| H&M | 47.7% | 3,000 |
+| SPORTS DIRECT | 47.6% | 8,521 |
+| UNIQLO | 44.5% | 263 |
+| THE NORTH FACE | 44.2% | 1,689 |
+| THE_PERFUME_SHOP | 43.7% | 323 |
 
-## Retailers Tracked (27 total)
+## Retailers Tracked (28 total)
 
 **Fashion & Sport:** Sports Direct, JD Sports, ASOS, Adidas, Nike, Schuh, New Balance, The North Face, Alpine Trek, Foot Locker, Very, ASOS Footwear
 
@@ -41,7 +41,7 @@ Unlike community-driven platforms (HotUKDeals, LatestDeals), BuySignal automatic
 
 - ✅ No ads, no affiliate relationships
 - ✅ Automated — catches discounted products from the retailers it tracks, updated several times a day
-- ✅ 27 UK retailers including non-Amazon stores
+- ✅ 28 UK retailers including non-Amazon stores
 - ✅ Price alerts for any UK product URL (£5 one-time)
 - ✅ Independent data — deals are sorted by the retailer's stated discount % by default
 
