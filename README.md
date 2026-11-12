@@ -1,12 +1,12 @@
 # BuySignal — Independent UK Deals Tracker
 
-> 159,494+ UK deals daily across 28 major retailers. No ads, no affiliate bias, subscription-funded.
+> 167,368+ UK deals daily across 28 major retailers. No ads, no affiliate bias, subscription-funded.
 
 🌐 **Website:** [buysignal.deals](https://buysignal.deals)
 
 ## What is BuySignal?
 
-BuySignal is an independent UK deals and price alert platform that automatically tracks 159,494+ live deals daily across 28 major UK retailers. Founded in 2026 by József Birton.
+BuySignal is an independent UK deals and price alert platform that automatically tracks 167,368+ live deals daily across 28 major UK retailers. Founded in 2026 by József Birton.
 
 Unlike community-driven platforms (HotUKDeals, LatestDeals), BuySignal automatically collects discounted products from the retailers it tracks: no community voting, no affiliate links.
 
@@ -14,12 +14,12 @@ Unlike community-driven platforms (HotUKDeals, LatestDeals), BuySignal automatic
 
 | Retailer | Avg Discount | Live Deals |
 |---|---|---|
-| GAP | 52.1% | 974 |
-| SPORTS DIRECT | 50.2% | 7,082 |
-| H&M | 47.7% | 2,962 |
-| UNIQLO | 45.1% | 265 |
-| THE_PERFUME_SHOP | 44.9% | 327 |
-| THE NORTH FACE | 44.2% | 1,652 |
+| GAP | 52.1% | 983 |
+| SPORTS DIRECT | 50.3% | 7,099 |
+| H&M | 47.7% | 2,924 |
+| UNIQLO | 45.7% | 275 |
+| THE_PERFUME_SHOP | 45.0% | 330 |
+| THE NORTH FACE | 44.3% | 1,606 |
 
 ## Retailers Tracked (28 total)
 
